@@ -1,9 +1,8 @@
 From 59edcbffa7f860c5700769e043c513fc728b49d3 Mon Sep 17 00:00:00 2001
 From: Tom Chauvel <tom.chauvel@proton.me>
 Date: Fri, 13 Sep 2024 14:07:41 +0200
-Subject: [PATCH] Redirect file lookups to /var/lib/rmtfs
+Subject: [PATCH] test
 
-Signed-off-by: Tom Chauvel <tom.chauvel@proton.me>
 ---
  rmtfs.service.in | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
